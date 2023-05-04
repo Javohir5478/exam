@@ -817,4 +817,108 @@
   height: 24px;
   left: 1072px;
   top: 446px;
+}
+
+.box6-1 ul {
+  position: absolute;
+  width: 200px;
+  height: 190px;
+  left: 426px;
+  top: 134px;
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 38px;
+  /* or 238% */
+  /* Neutral/Grey 6 */
+  color: #F2F2F2;
+  mix-blend-mode: normal;
+}
+.box6-1 h3 {
+  position: absolute;
+  width: 200px;
+  height: 30px;
+  left: 426px;
+  top: 80px;
+  /* Body/Large - Medium */
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 150%;
+  /* identical to box height, or 30px */
+  /* Neutral/White */
+  color: #FFFFFF;
+  mix-blend-mode: normal;
+}
+
+.box6-2 ul {
+  position: absolute;
+  width: 200px;
+  height: 190px;
+  left: 661px;
+  top: 134px;
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 38px;
+  /* or 238% */
+  /* Neutral / Grey 5 */
+  color: #E0E0E0;
+  mix-blend-mode: normal;
+}
+.box6-2 h3 {
+  position: absolute;
+  width: 200px;
+  height: 30px;
+  left: 661px;
+  top: 80px;
+  /* Body/Large - Medium */
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 150%;
+  /* identical to box height, or 30px */
+  /* Neutral/White */
+  color: #FFFFFF;
+  mix-blend-mode: normal;
+}
+
+.box6 h1 {
+  position: absolute;
+  width: 355px;
+  height: 96px;
+  left: 965px;
+  top: 80px;
+  /* Title/Large - Medium */
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 150%;
+  /* or 48px */
+  /* Neutral/White */
+  color: #FFFFFF;
+  mix-blend-mode: normal;
+}
+.box6 h5 {
+  position: absolute;
+  width: 391px;
+  height: 28px;
+  left: 120px;
+  top: 444px;
+  /* Body / Small - Regular */
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  /* identical to box height, or 175% */
+  letter-spacing: 0.01em;
+  /* Neutral/White */
+  color: #FFFFFF;
+  mix-blend-mode: normal;
 }/*# sourceMappingURL=style.css.map */
